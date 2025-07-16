@@ -1,0 +1,34 @@
+ - Game Controls -
+
+Movement & Navigation
+
+Move: W A S D
+
+Sprint: Shift
+
+Jump / Double Jump: Space
+
+Interact (Grab / Drop):
+	- Grab: Press E
+	- Drop: Release E
+
+Throw Held Object: Left Mouse Button (LMB)
+
+Open Abilities Menu: Tab
+
+Pause Menu: ESC
+
+Preview & Place Platform (Green Ability):
+	- Preview: Press Q
+	- Place: Release Q
+
+Suicide (In case you're stuck): X
+
+Collectibles Info: I
+
+Dialogue Navigation: Use the Mouse
+
+Cheats:
+	-Unlock All Abilities: Z
+
+Start Countdown (Temporary): C
